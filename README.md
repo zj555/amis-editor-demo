@@ -6,8 +6,11 @@ amis 可视化编辑器, 在线体验：https://aisuda.github.io/amis-editor-dem
 
 ## 本地运行这个项目
 
+版本 node v16.6.0 即可
+
 1. `npm i` 安装依赖
-3. `npm run dev` 等编译完成后本地打开页面看效果。
+2. `npm run dev` 等编译完成后本地打开页面看效果。
+3. 打开 根目录下的“index.html”文件看效果，不是上一步编译完成后自动打开的页面
 
 ## 在其他项目中使用 amis-editor
 
